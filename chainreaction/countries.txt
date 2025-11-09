@@ -1,30 +1,86 @@
-2.189.161.1 - IR - Respina Networks & Beyond PJSC
-2.189.161.2 - IR - Respina Networks & Beyond PJSC
-151.232.51.1 - IR - Iran Telecommunication Company PJS
-151.232.51.2 - IR - Iran Telecommunication Company PJS
-94.183.158.1 - IR - Aria Shatel PJSC
-94.183.158.2 - IR - Aria Shatel PJSC
-62.60.192.1 - IR - FanAvaran Mihan Mizban PJSC
-62.60.192.2 - IR - FanAvaran Mihan Mizban PJSC
-5.202.12.1 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
-5.202.12.2 - IR - Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
-188.212.98.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-188.212.98.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-93.126.50.1 - IR - Asmanfaraz Sepahan Company (P.J.S)
-93.126.50.2 - IR - Asmanfaraz Sepahan Company (P.J.S)
-193.151.141.1 - IR - IR-AT
-193.151.141.2 - IR - IR-AT
-84.47.233.1 - IR - Iran Telecommunication Company PJS
-84.47.233.2 - IR - Iran Telecommunication Company PJS
-89.44.240.1 - IR - FanAvaran Mihan Mizban PJSC
-89.44.240.2 - IR - FanAvaran Mihan Mizban PJSC
+62.60.164.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+62.60.164.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+79.127.70.1 - IR - Asiatech Data Transmission company
+79.127.70.2 - IR - Asiatech Data Transmission company
+5.198.176.1 - IR - Iran Telecommunication Company PJS
+5.198.176.2 - IR - Iran Telecommunication Company PJS
+212.23.214.1 - IR - Ali Monfared
+212.23.214.2 - IR - Ali Monfared
+2.189.59.1 - IR - Information Technology Company
+2.189.59.2 - IR - Information Technology Company
+2.189.117.1 - IR - Toloe Rayaneh Loghman Educational and Cultural Co.
+2.189.117.2 - IR - Toloe Rayaneh Loghman Educational and Cultural Co.
+85.133.250.1 - IR - Pars Abr Toseeh Ertebatat Company
+85.133.250.2 - IR - Pars Abr Toseeh Ertebatat Company
+78.39.57.1 - IR - Respina Networks & Beyond PJSC
+78.39.57.2 - IR - Respina Networks & Beyond PJSC
+185.155.72.1 - IR - Web Dadeh Paydar Co (Ltd)
+185.155.72.2 - IR - Web Dadeh Paydar Co (Ltd)
+92.114.50.1 - IR - Amir Hosein Maaref
+92.114.50.2 - IR - Amir Hosein Maaref
+178.239.149.1 - IR - Ali Monfared
+178.239.149.2 - IR - Ali Monfared
+94.139.183.1 - IR - Parvaresh Dadeha Co. Private Joint Stock
+94.139.183.2 - IR - Parvaresh Dadeha Co. Private Joint Stock
 89.44.242.1 - IR - Pars Abr Toseeh Ertebatat Company
 89.44.242.2 - IR - Pars Abr Toseeh Ertebatat Company
-185.243.51.1 - IR - Amir Mohammad Masoudi
-185.243.51.2 - IR - Amir Mohammad Masoudi
-94.182.83.1 - IR - Aria Shatel PJSC
-94.182.83.2 - IR - Aria Shatel PJSC
-5.159.49.1 - IR - Web Dadeh Paydar
-5.159.49.2 - IR - Web Dadeh Paydar
-185.4.31.1 - IR - Green Web Samaneh Novin' s
-185.4.31.2 - IR - Green Web Samaneh Novin' s
+5.10.248.1 - IR - Saeid Shahrokhi
+5.10.248.2 - IR - Saeid Shahrokhi
+45.131.4.1 - IR - Cloudflare London, LLC
+45.131.4.2 - IR - Cloudflare London, LLC
+46.245.76.1 - IR - Asiatech Data Transmission company
+46.245.76.2 - IR - Asiatech Data Transmission company
+46.38.148.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
+46.38.148.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
+185.36.228.1 - IR - Sefroyek Pardaz Engineering PJSC
+185.36.228.2 - IR - Sefroyek Pardaz Engineering PJSC
+193.151.135.1 - IR - Asre Dadeha Asiatech
+193.151.135.2 - IR - Asre Dadeha Asiatech
+89.44.241.1 - IR - FanAvaran Mihan Mizban PJSC
+89.44.241.2 - IR - FanAvaran Mihan Mizban PJSC
+94.182.137.1 - IR - Fanavaran Mehr Vatan Tehran Server Group LLC
+94.182.137.2 - IR - Fanavaran Mehr Vatan Tehran Server Group LLC
+85.133.247.1 - IR - FanAvaran Mihan Mizban PJSC
+85.133.247.2 - IR - FanAvaran Mihan Mizban PJSC
+87.107.9.1 - IR - Dade Pardazi Mobinhost Co LTD
+87.107.9.2 - IR - Dade Pardazi Mobinhost Co LTD
+78.157.46.1 - IR - Dade Samane Fanava Company
+78.157.46.2 - IR - Dade Samane Fanava Company
+78.157.49.1 - IR - Dade Samane Fanava Company
+78.157.49.2 - IR - Dade Samane Fanava Company
+37.32.6.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+37.32.6.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+94.183.173.1 - IR - Nahor Hadish Design and Architecture Co., Ltd
+94.183.173.2 - IR - Nahor Hadish Design and Architecture Co., Ltd
+62.60.204.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+62.60.204.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+45.94.215.1 - IR - FanAvaran Mihan Mizban PJSC
+45.94.215.2 - IR - FanAvaran Mihan Mizban PJSC
+87.107.144.1 - IR - Dade Pardazi Mobinhost Co LTD
+87.107.144.2 - IR - Dade Pardazi Mobinhost Co LTD
+193.162.129.1 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+193.162.129.2 - IR - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)
+62.60.192.1 - IR - FanAvaran Mihan Mizban PJSC
+62.60.192.2 - IR - FanAvaran Mihan Mizban PJSC
+185.143.232.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.143.232.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+212.80.9.1 - IR - Giti Secure Cloud LLC
+212.80.9.2 - IR - Giti Secure Cloud LLC
+185.49.105.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+185.49.105.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
+85.133.240.1 - IR - Respina Networks & Beyond PJSC
+85.133.240.2 - IR - Respina Networks & Beyond PJSC
+89.44.113.1 - IR - LASERCO
+89.44.113.2 - IR - LASERCO
+185.26.32.1 - IR - sadafi
+185.26.32.2 - IR - sadafi
+212.33.201.1 - IR - Asiatech Data Transmission company
+212.33.201.2 - IR - Asiatech Data Transmission company
+185.236.36.1 - IR - Sindad Network Technology PJSC
+185.236.36.2 - IR - Sindad Network Technology PJSC
+85.133.236.1 - IR - Amir Hosein Maaref
+85.133.236.2 - IR - Amir Hosein Maaref
+31.47.45.1 - IR - AFranet Co
+31.47.45.2 - IR - AFranet Co
+94.232.170.1 - IR - Tebyan-e-Noor Cultural-Artistic Institute
+94.232.170.2 - IR - Tebyan-e-Noor Cultural-Artistic Institute
